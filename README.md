@@ -7,4 +7,4 @@ and i do java.
 
 below me should be some sweet java
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckclol)](https://github.com/ckclol/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckclol&layout=compact)](https://github.com/ckclol/github-readme-stats)
