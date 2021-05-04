@@ -11,4 +11,8 @@ below me should be some sweet java
 
 waka card
 
-[![ckclol's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ckclol)](https://github.com/anuraghazra/github-readme-stats)
+i don't have wakacard
+
+website.
+
+[![spmc.ml](https://spmc.ml)](https://spmc.ml)
