@@ -16,3 +16,7 @@ i don't have wakacard
 website.
 
 [![spmc.ml](https://spmc.ml)](https://spmc.ml)
+
+build status for **spaceclient**
+
+[![Build Status](https://travis-ci.com/ckclol/spaceclient.svg?branch=master)](https://travis-ci.com/ckclol/spaceclient)
