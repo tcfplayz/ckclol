@@ -17,6 +17,6 @@ website.
 
 [![spmc.ml](https://spmc.ml)](https://spmc.ml)
 
-build status for **spaceclient**
+build status for **risecity**
 
-[![Build Status](https://travis-ci.com/ckclol/spaceclient.svg?branch=master)](https://travis-ci.com/ckclol/spaceclient)
+[![Build Status](https://travis-ci.com/ckclol/risecity.svg?branch=master)](https://travis-ci.com/ckclol/risecity)
