@@ -19,6 +19,6 @@ website.
 
 **discord stuffy**
 
-![Discord Banner 2](https://discordapp.com/api/guilds/802077281165639691/widget.png?style=banner2)
+![Discord](https://discordapp.com/api/guilds/802077281165639691/widget.png?style=banner4)
 
 
