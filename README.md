@@ -17,6 +17,8 @@ website.
 
 [![spmc.ml](https://spmc.ml)](https://spmc.ml)
 
-build status for **risecity**
+**discord stuffy**
 
-[![Build Status](https://travis-ci.com/ckclol/risecity.svg?branch=master)](https://travis-ci.com/ckclol/risecity)
+![Discord](https://discordapp.com/api/guilds/802077281165639691/widget.png?style=banner2)
+
+
