@@ -3,6 +3,8 @@ Hello! I am tcfplayz (ckclol is cringe but i made this ages ago)
 
 and i do java.
 
+![Discord Shield](https://discordapp.com/api/guilds/802077281165639691/widget.png?style=shield)
+
 [![ckclol's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckclol)](https://github.com/anuraghazra/github-readme-stats)
 
 below me should be some sweet java
