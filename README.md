@@ -3,7 +3,7 @@ Hello! I am tcfplayz (ckclol is cringe but i made this ages ago)
 
 and i do java.
 
-![Discord Shield](https://discordapp.com/api/guilds/802077281165639691/widget.png?style=shield)
+[![Discord Shield](https://discordapp.com/api/guilds/802077281165639691/widget.png?style=shield)](https://spmc.ml/discord)
 
 [![ckclol's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckclol)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -21,6 +21,6 @@ website.
 
 **discord stuffy**
 
-[![discord(https://discordapp.com/api/guilds/802077281165639691/widget.png?style=banner4)]](https://spmc.ml/discord)
+[![discord](https://discordapp.com/api/guilds/802077281165639691/widget.png?style=banner4)](https://spmc.ml/discord)
 
 
