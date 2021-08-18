@@ -21,6 +21,6 @@ website.
 
 **discord stuffy**
 
-![Discord](https://discordapp.com/api/guilds/802077281165639691/widget.png?style=banner4)
+![discord(https://discordapp.com/api/guilds/802077281165639691/widget.png?style=banner4)](https://spmc.ml/discord)
 
 
