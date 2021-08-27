@@ -1,8 +1,9 @@
 <h1><b><div align="center"><a href="https://spmc.ml/discord">tcfplayz's github</a></h1></b></div>
-<div align="center"><a href="https://www.youtube.com/channel/UCuKTeBqVY9z_TAShMGD87tw">Hello! I am tcfplayz.</a></div>
+<div align="center"><a href="https://www.youtube.com/channel/UCuKTeBqVY9z_TAShMGD87tw">Hello! I am tcfplayz.</a>
 
 and i do java.
-
+</div>
+    
 <div align="center">
 [![Discord Shield](https://discordapp.com/api/guilds/802077281165639691/widget.png?style=shield)]
 
