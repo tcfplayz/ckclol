@@ -5,7 +5,10 @@ and i do java.
 </div>
     
 <div align="center">
-[![Discord Shield](https://discordapp.com/api/guilds/802077281165639691/widget.png?style=shield)]
+    Some Shields
+
+    <a href="https://spmc.ml/discord"><img src=https://img.shields.io/discord/802077281165639691></a>
+    <a herf="https://www.npmjs.com/package/@bdsx/economy"><img src="https://img.shields.io/npm/dt/@bdsx/economy?label=npm&style=plastic"></a>
 
 [![ckclol's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckclol)](https://github.com/ckclol)
 
