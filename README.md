@@ -1,9 +1,5 @@
 <h1><b><div align="center"><a href="https://spmc.ml/discord">tcfplayz's github</a></h1></b>
 <a href="https://www.youtube.com/channel/UCuKTeBqVY9z_TAShMGD87tw">Hello! I am tcfplayz.</a>
-
-and i do java.
-
-    <h1>Shields</h1>
     
     <a href="https://www.github.com/bdsx/bdsx">
         <img src="https://img.shields.io/github/contributors/bdsx/bdsx">
