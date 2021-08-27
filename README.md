@@ -5,7 +5,6 @@ and i do java.
 </div>
     
 <div align="center">
-    Some Shields
     
     <a href="https://www.github.com/bdsx/bdsx"><img src="https://img.shields.io/github/contributors/bdsx/bdsx"></a>
     <img src="https://img.shields.io/github/followers/ckclol?style=social">
