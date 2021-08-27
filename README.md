@@ -1,5 +1,5 @@
 ### Ckclol
-Hello! I am tcfplayz (ckclol is cringe but i made this ages ago)
+<center>Hello! I am tcfplayz (ckclol is cringe but i made this ages ago)</center>
 
 and i do java.
 
