@@ -1,19 +1,6 @@
-<h1><b><div align="center">tcfplayz's github</b></h1>
+<h1><b><div align="center">tcfplayz's github</b></h1></div>
     
 <a href="https://www.youtube.com/channel/UCuKTeBqVY9z_TAShMGD87tw">Hello! I am tcfplayz.</a>
-    
-    <a href="https://www.github.com/bdsx/bdsx">
-        <img src="https://img.shields.io/github/contributors/bdsx/bdsx">
-    </a>
-    <img src="https://img.shields.io/github/followers/ckclol?style=social">
-    <a href="https://spmc.ml/discord">
-        <img src=https://img.shields.io/discord/802077281165639691>
-    </a>
-    <a herf="https://www.npmjs.com/package/@bdsx/economy">
-        <img src="https://img.shields.io/npm/dt/@bdsx/economy?label=npm&style=plastic">
-    </a>
-
-    <h1>My website:</h1>
     
 <a href="https://spmc.ml"><img src="https://cdn.discordapp.com/emojis/870181354363568128.png?size=64" alt="spmc.ml"/> 
 
@@ -33,3 +20,16 @@
   <a href="https://html.com" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" />
   </a>
+    
+    ### shields
+    
+<a href="https://www.github.com/bdsx/bdsx" target="_blank">
+        <img src="https://img.shields.io/github/contributors/bdsx/bdsx">
+    </a>
+    <img src="https://img.shields.io/github/followers/ckclol?style=social">
+    <a href="https://spmc.ml/discord" target="_blank">
+        <img src=https://img.shields.io/discord/802077281165639691>
+    </a>
+    <a herf="https://www.npmjs.com/package/@bdsx/economy" target="_blank">
+        <img src="https://img.shields.io/npm/dt/@bdsx/economy?label=npm&style=plastic">
+    </a>
