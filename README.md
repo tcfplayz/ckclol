@@ -5,11 +5,11 @@ and i do java.
 
 [![Discord Shield](https://discordapp.com/api/guilds/802077281165639691/widget.png?style=shield)](https://spmc.ml/discord)
 
-[![ckclol's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckclol)](https://github.com/anuraghazra/github-readme-stats)
+[![ckclol's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckclol)](https://github.com/ckclol)
 
 below me should be some sweet java
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckclol&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckclol&layout=compact)](https://github.com/ckclol)
 
 waka card
 
