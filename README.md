@@ -1,4 +1,4 @@
-<h1 style="color: gold;"><div align="center">tcfplayz's github</h1></div>
+<h1><b><div align="center">tcfplayz's github</h1></b></div>
 <center>Hello! I am tcfplayz (ckclol is cringe but i made this ages ago)</center>
 
 and i do java.
