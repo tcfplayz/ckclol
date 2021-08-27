@@ -1,4 +1,4 @@
-### Ckclol
+<h1 style="color: gold;"><div align="center">tcfplayz's github</h1></div>
 <center>Hello! I am tcfplayz (ckclol is cringe but i made this ages ago)</center>
 
 and i do java.
