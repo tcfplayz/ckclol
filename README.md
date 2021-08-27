@@ -1,14 +1,20 @@
 <h1><b><div align="center"><a href="https://spmc.ml/discord">tcfplayz's github</a></h1></b>
-><a href="https://www.youtube.com/channel/UCuKTeBqVY9z_TAShMGD87tw">Hello! I am tcfplayz.</a>
+<a href="https://www.youtube.com/channel/UCuKTeBqVY9z_TAShMGD87tw">Hello! I am tcfplayz.</a>
 
 and i do java.
 
     <h1>Shields</h1>
-    !
-    <a href="https://www.github.com/bdsx/bdsx"><img src="https://img.shields.io/github/contributors/bdsx/bdsx"></a>
+    
+    <a href="https://www.github.com/bdsx/bdsx">
+        <img src="https://img.shields.io/github/contributors/bdsx/bdsx">
+    </a>
     <img src="https://img.shields.io/github/followers/ckclol?style=social">
-    <a href="https://spmc.ml/discord"><img src=https://img.shields.io/discord/802077281165639691></a>
-    <a herf="https://www.npmjs.com/package/@bdsx/economy"><img src="https://img.shields.io/npm/dt/@bdsx/economy?label=npm&style=plastic"></a>
+    <a href="https://spmc.ml/discord">
+        <img src=https://img.shields.io/discord/802077281165639691>
+    </a>
+    <a herf="https://www.npmjs.com/package/@bdsx/economy">
+        <img src="https://img.shields.io/npm/dt/@bdsx/economy?label=npm&style=plastic">
+    </a>
 
     <h1>My website:</h1>
     
