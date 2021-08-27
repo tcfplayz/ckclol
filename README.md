@@ -7,19 +7,20 @@
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>|
+  </a>
     <a href="https://java.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>|
+  </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a>| 
+  </a>
   <a href="https://css-tricks.com" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" /> 
-  </a>| 
+  </a>
   <a href="https://html.com" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" />
   </a>
+    
     
 <a href="https://www.github.com/bdsx/bdsx" target="_blank"><img src="https://img.shields.io/github/contributors/bdsx/bdsx"></a>
 <img src="https://img.shields.io/github/followers/ckclol?style=social">
