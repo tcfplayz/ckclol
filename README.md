@@ -1,4 +1,5 @@
-<h1><b><div align="center"><a href="https://spmc.ml/discord">tcfplayz's github</a></h1></b>
+<h1><b><div align="center">tcfplayz's github</b></h1>
+    
 <a href="https://www.youtube.com/channel/UCuKTeBqVY9z_TAShMGD87tw">Hello! I am tcfplayz.</a>
     
     <a href="https://www.github.com/bdsx/bdsx">
