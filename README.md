@@ -1,8 +1,8 @@
 <h1><b>tcfplayz's github</b></h1>
     
-<a href="https://www.youtube.com/channel/UCuKTeBqVY9z_TAShMGD87tw">Hello! I am tcfplayz.</a>
+<div align="center"><a href="https://www.youtube.com/channel/UCuKTeBqVY9z_TAShMGD87tw">Hello! I am tcfplayz.</a></div>
     
-<a href="https://spmc.ml"><img src="https://cdn.discordapp.com/emojis/870181354363568128.png?size=64" alt="spmc.ml"/> 
+<div align="center"><a href="https://spmc.ml"><img src="https://cdn.discordapp.com/emojis/870181354363568128.png?size=64" alt="spmc.ml"/></div>
 
 
 <div align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
