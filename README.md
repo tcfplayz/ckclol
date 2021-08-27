@@ -1,4 +1,4 @@
-<h1><b><div align="center">tcfplayz's github</h1></b></div>
+<h1><b><div align="center"><a href="https://spmc.ml/discord">tcfplayz's github</a></h1></b></div>
 <center>Hello! I am tcfplayz (ckclol is cringe but i made this ages ago)</center>
 
 and i do java.
