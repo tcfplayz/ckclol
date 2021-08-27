@@ -1,27 +1,21 @@
 <h1><b><div align="center"><a href="https://spmc.ml/discord">tcfplayz's github</a></h1></b></div>
-<center>Hello! I am tcfplayz (ckclol is cringe but i made this ages ago)</center>
+<div align="center"><a href="https://www.youtube.com/channel/UCuKTeBqVY9z_TAShMGD87tw">Hello! I am tcfplayz.</a></div>
 
 and i do java.
 
+<div align="center">
 [![Discord Shield](https://discordapp.com/api/guilds/802077281165639691/widget.png?style=shield)](https://spmc.ml/discord)
+</div>
 
+<div align="center">
 [![ckclol's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckclol)](https://github.com/ckclol)
 
-below me should be some sweet java
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckclol&layout=compact)](https://github.com/ckclol)
+</div>
 
-waka card
+My website:
 
-i don't have wakacard
-
-website.
-
-[![spmc.ml](https://spmc.ml)](https://spmc.ml)
-
-**discord stuffy**
-
-[![discord](https://discordapp.com/api/guilds/802077281165639691/widget.png?style=banner4)](https://spmc.ml/discord)
+[![spmc.ml](https://raw.githubusercontent.com/ckclol/ckclol.github.io/master/png/spmc.png)](https://spmc.ml)
 
 <div align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
