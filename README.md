@@ -6,17 +6,13 @@ and i do java.
     
 <div align="center">
     
+    <h1>Shields</h1>
     <a href="https://www.github.com/bdsx/bdsx"><img src="https://img.shields.io/github/contributors/bdsx/bdsx"></a>
     <img src="https://img.shields.io/github/followers/ckclol?style=social">
     <a href="https://spmc.ml/discord"><img src=https://img.shields.io/discord/802077281165639691></a>
     <a herf="https://www.npmjs.com/package/@bdsx/economy"><img src="https://img.shields.io/npm/dt/@bdsx/economy?label=npm&style=plastic"></a>
 
-[![ckclol's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckclol)](https://github.com/ckclol)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckclol&layout=compact)](https://github.com/ckclol)
-
-
-My website:
+    <h1>My website:</h1>
     
 <a href="https://spmc.ml"><img src="https://cdn.discordapp.com/emojis/870181354363568128.png?size=64" alt="spmc.ml"/> 
 </div>
