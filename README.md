@@ -23,7 +23,7 @@
     </div>    
     
 <div align="center">   
-<a href="https://www.github.com/bdsx/bdsx" target="_blank"><img src="https://img.shields.io/github/contributors/bdsx/bdsx"></a>|
-<a href="https://spmc.ml/discord" target="_blank"><img src="https://img.shields.io/discord/802077281165639691"></a>|
+<a href="https://www.github.com/bdsx/bdsx" target="_blank"><img src="https://img.shields.io/github/contributors/bdsx/bdsx"></a>
+<a href="https://spmc.ml/discord" target="_blank"><img src="https://img.shields.io/discord/802077281165639691"></a>
 <a herf="https://www.npmjs.com/package/@bdsx/economy" target="_blank"><img src="https://img.shields.io/npm/dt/@bdsx/economy?label=npm&style=plastic"></a>
 </div>
