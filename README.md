@@ -6,7 +6,6 @@ and i do java.
     
 <div align="center">
     Some Shields
-
     <a href="https://spmc.ml/discord"><img src=https://img.shields.io/discord/802077281165639691></a>
     <a herf="https://www.npmjs.com/package/@bdsx/economy"><img src="https://img.shields.io/npm/dt/@bdsx/economy?label=npm&style=plastic"></a>
 
