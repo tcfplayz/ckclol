@@ -5,17 +5,15 @@ and i do java.
 
 <div align="center">
 [![Discord Shield](https://discordapp.com/api/guilds/802077281165639691/widget.png?style=shield)](https://spmc.ml/discord)
-</div>
 
-<div align="center">
 [![ckclol's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckclol)](https://github.com/ckclol)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckclol&layout=compact)](https://github.com/ckclol)
+
+
+<My website:
+<a href="https://spmc.ml"><img src="https://cdn.discordapp.com/emojis/870181354363568128.png?size=64" alt="spmc.ml"/> 
 </div>
-
-My website:
-
-[![spmc.ml](https://raw.githubusercontent.com/ckclol/ckclol.github.io/master/png/spmc.png)](https://spmc.ml)
 
 <div align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
