@@ -1,11 +1,8 @@
-<h1><b><div align="center"><a href="https://spmc.ml/discord">tcfplayz's github</a></h1></b></div>
-<div align="center"><a href="https://www.youtube.com/channel/UCuKTeBqVY9z_TAShMGD87tw">Hello! I am tcfplayz.</a>
+<h1><b><div align="center"><a href="https://spmc.ml/discord">tcfplayz's github</a></h1></b>
+><a href="https://www.youtube.com/channel/UCuKTeBqVY9z_TAShMGD87tw">Hello! I am tcfplayz.</a>
 
 and i do java.
-</div>
-    
-<div align="center">
-    
+
     <h1>Shields</h1>
     !
     <a href="https://www.github.com/bdsx/bdsx"><img src="https://img.shields.io/github/contributors/bdsx/bdsx"></a>
@@ -16,9 +13,9 @@ and i do java.
     <h1>My website:</h1>
     
 <a href="https://spmc.ml"><img src="https://cdn.discordapp.com/emojis/870181354363568128.png?size=64" alt="spmc.ml"/> 
-</div>
 
-<div align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>|
     <a href="https://java.com" target="_blank"> 
@@ -32,4 +29,4 @@ and i do java.
   </a>| 
   <a href="https://html.com" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" />
-  </a></div>
+  </a>
