@@ -21,8 +21,7 @@
   <a href="https://html.com" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" />
   </a>
-    </div>
-    
+    </div>  
     <div align="center">
     <a href="https://github.com/ckclol/ckclol/language.md">My language status</a> 
     </div>
