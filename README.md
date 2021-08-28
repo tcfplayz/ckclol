@@ -2,9 +2,9 @@
     
 <div align="center"><a href="https://www.youtube.com/channel/UCuKTeBqVY9z_TAShMGD87tw">Hello! I am tcfplayz.</a></div>
     
-<div align="center"><a href="https://spmc.ml"><img src="https://cdn.discordapp.com/emojis/870181354363568128.png?size=64" alt="spmc.ml"/></div>
+<div align="center"><a href="https://spmc.ml"><img src="https://cdn.discordapp.com/emojis/870181354363568128.png?size=64" alt="discord status"/></div>
 
-<div align="center"><a href="https://spmc.ml"><img src="https://discord.c99.nl/widget/theme-3/340022376924446720.png4" alt="spmc.ml"/></div>
+<div align="center"><a href="https://spmc.ml"><img src="https://discord.c99.nl/widget/theme-3/340022376924446720.png" alt="spmc.ml"/></div>
     
 <div align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
