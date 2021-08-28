@@ -23,7 +23,7 @@
   </a>
     </div>  
     <div align="center">
-    <a href="https://github.com/ckclol/ckclol/main/blob/language.md">My language status</a> 
+    <a href="https://github.com/ckclol/ckclol/blob/main/language.md">My language status</a> 
     </div>
     
 <div align="center">   
