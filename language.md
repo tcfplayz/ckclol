@@ -9,7 +9,7 @@ here are some of my projects:
 <a herf="https://www.npmjs.com/package/@bdsx/ckclib" target="_blank"><img src="https://img.shields.io/npm/dt/@bdsx/ckclib?label=npm&style=plastic"></a>
 
 <h2>Java<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/></h2>
-I do this for minecraft (https://github.com/ckclol/1.8.9-mcp), and I like to edit the hecc out of minecraft (https://github.com/ckclol/spaceclient)
+I do this for minecraft (https://github.com/tcfplayz/1.8.9-mcp), and I like to edit the hecc out of minecraft (https://github.com/ckclol/spaceclient)
 I am writing a trash framwork so yeah.
 
 <img src="https://preview.redd.it/avjal33hpqo61.png?width=512&format=png&auto=webp&s=b652d83347448df74c8ba61c17b322e686ee32a4" alt="mc" width="20" height="20"/>
@@ -17,3 +17,6 @@ Minecraft for life #mcforlife
 
 <h2>HTML<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="20" height="20" />/CSS<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="20" height="20"/></h2>
 no.
+
+<h2>C, C++, C#</h2>
+Mainly doing them for sum games like slime rancher or others
