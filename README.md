@@ -18,9 +18,9 @@
   </a>
 </div>  
     
-    <div align="center">
+<div align="center">
     <a href="https://github.com/ckclol/ckclol/blob/main/language.md">My language status</a> 
-    </div>
+</div>
     
 <div align="center">   
 <a href="https://discord.spmc.ml" target="_blank"><img src="https://img.shields.io/discord/964789575669137470"></a>
