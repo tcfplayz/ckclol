@@ -5,7 +5,8 @@
 <div align="center"><a href="http://mc.spmc.ml"><img src="https://cdn.discordapp.com/emojis/870181354363568128.png?size=64" alt="discord status"/></div>
 
 <div align="center"><a href="https://discord.spmc.ml/"><img src="https://discord.c99.nl/widget/theme-3/340022376924446720.png" alt="spmc.ml"/></div>
-  
+
+<div align="center">  
   <a href="https://lua.com/">   
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" alt="lua" width="60" height="60"/> 
   </a>
@@ -15,7 +16,8 @@
   <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/> 
   </a>
-    </div>  
+</div>  
+    
     <div align="center">
     <a href="https://github.com/ckclol/ckclol/blob/main/language.md">My language status</a> 
     </div>
