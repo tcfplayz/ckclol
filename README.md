@@ -20,6 +20,6 @@
 </div>
     
 <div align="center">   
-<a href="https://discord.spmc.ml" target="_blank"><img src="https://img.shields.io/discord/964789575669137470"></a>
+<a href="https://dc.spmc.tk" target="_blank"><img src="https://img.shields.io/discord/964789575669137470"></a>
 <a herf="https://www.npmjs.com/package/@bdsx/economy" target="_blank"><img src="https://img.shields.io/npm/dt/@bdsx/economy?label=npm&style=plastic"></a>
 </div>
