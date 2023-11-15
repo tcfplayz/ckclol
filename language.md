@@ -14,4 +14,4 @@ dying inside
 dying inside
   
 <h2>Lua</h2>
-What do you expect... (of course roblox)
+Since I am quitting roblox, I am most likely going to focus back on Java now.
